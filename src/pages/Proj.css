@@ -13,8 +13,8 @@
             align-items: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+        -ms-flex-direction: column;
+            flex-direction: column;
     text-align: center;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
